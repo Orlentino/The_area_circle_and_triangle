@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_area_circle_and_triangle", "The_area_circle_and_triangle\The_area_circle_and_triangle.csproj", "{B3A819D5-FB54-4F3C-9818-20631E0DC109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_The_area_circle_and_triangle", "Test_The_area_circle_and_triangle\Test_The_area_circle_and_triangle.csproj", "{6E9C0FEA-84C3-4B85-BA45-5FAC41B2B006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A819D5-FB54-4F3C-9818-20631E0DC109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A819D5-FB54-4F3C-9818-20631E0DC109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A819D5-FB54-4F3C-9818-20631E0DC109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A819D5-FB54-4F3C-9818-20631E0DC109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9C0FEA-84C3-4B85-BA45-5FAC41B2B006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9C0FEA-84C3-4B85-BA45-5FAC41B2B006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9C0FEA-84C3-4B85-BA45-5FAC41B2B006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9C0FEA-84C3-4B85-BA45-5FAC41B2B006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19B50782-0F27-41F7-9777-973BAD5734D7}
+	EndGlobalSection
+EndGlobal
